@@ -1,0 +1,8 @@
+venv/
+*.dll
+*.pyd
+*.so
+__pycache__/
+*.log
+.DS_Store
+*.mp4
