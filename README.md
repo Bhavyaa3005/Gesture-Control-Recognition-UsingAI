@@ -1,4 +1,4 @@
-Gesture Control Recognition Using AI - Virtual Mouse
+Hand Gesture Recognition Using AI - Virtual Mouse
 
 Introduction
  This project enables gesture-based control of a computer using a webcam. 
